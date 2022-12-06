@@ -1,0 +1,9 @@
+{
+  "name": "TGfront",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.2"
+  }
+}
